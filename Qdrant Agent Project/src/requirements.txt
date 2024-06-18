@@ -1,0 +1,11 @@
+os
+python-dotenv
+logging
+openai
+qdrant-client
+langchain-openai
+llama-index
+chainlit
+langchain-core
+langchain-schema
+langsmith
